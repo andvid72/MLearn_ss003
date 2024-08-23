@@ -7,7 +7,6 @@ from plotnine import *
 
 #%%
 
-os.chdir("C:\\Users\\diego\\Desktop\\MachineLearning\\RegresionLogistica")
 mi_data = pd.read_csv("cancer_mama.csv")
 
 mi_data

@@ -23,7 +23,6 @@ from plotnine import *
 
 #%%
 
-os.chdir("C:\\Users\\diego\\Desktop\\MachineLearning\\RegresionLogistica")
 mi_data = pd.read_csv("datos_procesamiento.csv")
 
 #%%

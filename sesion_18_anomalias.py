@@ -14,8 +14,6 @@ from plotnine import *
 from sklearn import preprocessing
 from sklearn.cluster import KMeans
 
-os.chdir("C:\\Users\\diego\\Desktop\\MachineLearning")
-
 
 #%%
 

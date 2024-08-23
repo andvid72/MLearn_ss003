@@ -24,7 +24,6 @@ from plotnine import *
 
 #%%
 
-os.chdir("C:\\Users\\diego\\Desktop\\MachineLearning")
 mi_data = pd.read_csv("datos_peliculas.csv")
 
 #%%

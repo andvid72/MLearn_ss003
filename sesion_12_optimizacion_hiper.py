@@ -18,7 +18,6 @@ from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
 
-os.chdir("C:\\Users\\diego\\Desktop\\MachineLearning")
 mi_data = pd.read_csv("datos_iris.csv")
 
 #%%
